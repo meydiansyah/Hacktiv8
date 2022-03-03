@@ -12,13 +12,15 @@ Peserta magang batch `#2` **Front End React Developer**
 
 Berikut detail laporan tiap pertemuan/sesi :
 
-| Sesi | Judul                            | Link                               | Deskripsi                                                                                                                       |
-| :--: | :------------------------------- | :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-|  1   | Pengenalan **HTML**              | [`Challenge`](../s1/index.html)    | Buat tampilan `html` untuk portfolio                                                                                            |
-|  2   | Pengenalan **CSS**               | [`Assignment#1`](../s2/index.html) | `Styling` portfolio tampilan html sebelumnya                                                                                    |
-|  3   | CSS Framework : **Bootstrap**    | [`Assignment#2`](../s3/index.html) | Buat `Pages blog` sesuai dengan UI Design yang telah disediakan                                                                 |
-|  4   | Penggunaan **Github repository** | [`Challenge`](../s3/index.html)    | Menggunakan `Github` sebagai media repository `3`                                                                               |
-|  5   | Pengenalan **Javascript**        | [`Assignment#3`](../s5/index.html) | Melakukan perubahan data pada section form dimana setelah selesai disubmit akan mengganti semua deskripsi pada section profile. |
+| Sesi | Judul                            | Link                             | Deskripsi                                                                                                                       |
+| :--: | :------------------------------- | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+|  1   | Pengenalan **HTML**              | [`Challenge`](/s1/index.html)    | Buat tampilan `html` untuk portfolio                                                                                            |
+|  2   | Pengenalan **CSS**               | [`Assignment#1`](/s2/index.html) | `Styling` portfolio tampilan html sebelumnya                                                                                    |
+|  3   | CSS Framework : **Bootstrap**    | [`Assignment#2`](/s3/index.html) | Buat `Pages blog` sesuai dengan UI Design yang telah disediakan                                                                 |
+|  4   | Penggunaan **Github repository** | [`Challenge`](/s3/index.html)    | Menggunakan `Github` sebagai media repository `sesi 3`                                                                          |
+|  5   | Pengenalan **Javascript**        | [`Assignment#3`](/s5/index.html) | Melakukan perubahan data pada section form dimana setelah selesai disubmit akan mengganti semua deskripsi pada section profile. |
+|  9   | Pengenalan **React**             | [`Challenge`](/react/s9)         | Menerapkan beberapa komponen pada `React`                                                                                       |
+|  10  | Aplikasi **React** pertama       | [`Challenge`](/react/s10)        | Menyempurnakan tampilan sebelumnya dengan beberapa aksi seperti `increment` dan `decrement`                                     |
 
 ---
 
