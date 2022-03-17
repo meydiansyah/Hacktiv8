@@ -1,0 +1,51 @@
+@media (max-width: 992px) {
+	.edu-head {
+		text-align: center !important;
+		position: relative !important;
+		right: 0px !important;
+		top: 0px !important;
+	}
+	.edu-detail {
+		align-items: center !important;
+		text-align: center !important;
+		padding: 2rem !important;
+	}
+
+	p {
+		font-size: 1.5rem !important;
+	}
+}
+
+@media (max-width: 720px) {
+	p {
+		font-size: 1rem !important;
+	}
+}
+
+@media (max-width: 550px) {
+	p {
+		font-size: 0.75rem !important;
+	}
+}
+
+.edu-head {
+	text-align: end;
+	position: absolute;
+	top: 40px;
+	right: 40px;
+}
+
+.edu-detail {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: end;
+	padding-right: 40px;
+	padding-left: 120px;
+	padding-top: 150px;
+	text-align: end;
+}
+
+p {
+	font-size: 1.8rem;
+}

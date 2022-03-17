@@ -1,0 +1,31 @@
+@media (max-width: 992px) {
+	.skill-detail {
+		align-items: center !important;
+		text-align: center !important;
+		padding: 2rem !important;
+	}
+	.list-icons {
+		justify-content: center !important;
+	}
+}
+
+.skill-detail {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 150px;
+	text-align: start;
+}
+
+.skill-icons {
+	font-size: 2.5rem;
+	opacity: 0.5;
+	margin: 0 10px;
+}
+
+.list-icons {
+	justify-content: start;
+}
