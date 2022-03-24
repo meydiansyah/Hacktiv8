@@ -27,11 +27,13 @@ Berikut detail laporan tiap pertemuan/sesi :
 |  14  | Testing dan Debugging pada **React** | [`Challenge`](/react/s14)                           | Melakukan testing dan debugging dasar pada `React`                                                                              |
 |  15  | **React Router**                     | [`Challenge`](/react/s15/react-router-dom)          | Menerapkan `React router` pada aplikasi sebelumnya                                                                              |
 |      | **Portfolio app**                    | [`Assignment#6`](/react/s15/portfolio)              | Membangun aplikasi portfolio menggunakan `React` dengan menerapkan `basic router` dan `component structure`                     |
+|  16  | **Redux Web**                        | [`Challenge`](/react/s16/redux-web)                 | Menerapkan konsep `Redux` pada aplikasi website sederhana                                                                       |
+|      | **React Redux**                      | [`Challenge`](/react/s16/react-redux)               | Menggunakan `Redux` pada aplikasi `Counter React JS` dengan penggunaan `Function` dan `Component Class` pada **React JS**       |
+|      | **Redux Sprint**                     | [`Assignment#7`](/react/s16/react-sprint)           | Membangun aplikasi sprint dengan menggunakan konsep `Redux, React Redux, dan Redux Thunk`                                       |
 
 ---
 
 ### 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meydiansyah/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/meydiansyah__/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/meydiansyah__/)
