@@ -31,6 +31,7 @@ Berikut detail laporan tiap pertemuan/sesi :
 |      | **React Redux**                                 | [`Challenge`](/react/s16/react-redux)               | Menggunakan `Redux` pada aplikasi `Counter React JS` dengan penggunaan `Function` dan `Component Class` pada **React JS**       |
 |      | **Redux Sprint**                                | [`Assignment#7`](/react/s16/react-sprint)           | Membangun aplikasi sprint dengan menggunakan konsep `Redux, React Redux, dan Redux Thunk`                                       |
 |  17  | Server Side Rendering Concept using **Next JS** | [`Challenge`](/react/s17/react-next)                | Pengenalan konsep React untuk kebutuhan Server Side Rendering - NextJS                                                          |
+|  18  | Pengenalan **React Native**                     | [`Challenge`](/react-native/s18/AwesomeProject)     | Pengenalan React Native untuk pengembangan mobile apps dan cara instalasi - konfigurasi environment                             |
 
 ---
 
