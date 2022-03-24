@@ -32,6 +32,7 @@ Berikut detail laporan tiap pertemuan/sesi :
 |      | **Redux Sprint**                                | [`Assignment#7`](/react/s16/react-sprint)           | Membangun aplikasi sprint dengan menggunakan konsep `Redux, React Redux, dan Redux Thunk`                                       |
 |  17  | Server Side Rendering Concept using **Next JS** | [`Challenge`](/react/s17/react-next)                | Pengenalan konsep React untuk kebutuhan Server Side Rendering - NextJS                                                          |
 |  18  | Pengenalan **React Native**                     | [`Challenge`](/react-native/s18/AwesomeProject)     | Pengenalan React Native untuk pengembangan mobile apps dan cara instalasi - konfigurasi environment                             |
+|  19  | **React Native** Fundamental                      | [`Challenge`](/react-native/s19/FirstApp)           | Menampilkan data API dari `https://randomuser.me/api/?results=50`                                                               |
 
 ---
 
