@@ -1,6 +1,4 @@
 [![Status](https://img.shields.io/badge/Status-dev-orange.svg)](https://shields.io/)
-<br>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 # Laporan MBKM Hacktiv8
 
@@ -19,6 +17,8 @@ Berikut detail laporan tiap pertemuan/sesi :
 |  3   | CSS Framework : **Bootstrap**                     | [`Assignment#2`](/s3/index.html)                    | Buat `Pages blog` sesuai dengan UI Design yang telah disediakan                                                                 |
 |  4   | Penggunaan **Github repository**                  | [`Challenge`](/s3/index.html)                       | Menggunakan `Github` sebagai media repository `sesi 3`                                                                          |
 |  5   | Pengenalan **Javascript**                         | [`Assignment#3`](/s5/index.html)                    | Melakukan perubahan data pada section form dimana setelah selesai disubmit akan mengganti semua deskripsi pada section profile. |
+|  6   | Pengenalan **Algoritma & Pseuodocode**            | [`Readme`](/s6)                                     | Memahami apa itu Algoritma dan Implementasi Algoritma dengan pembuatan pseudocode                                               |
+|  7   | Penggunaan **Modern JS - ES6**                    | [`Readme`](/s7)                                     | Memahami konsep dasar dari EcmaScript 6 / ES6 sebagai versi javascript yang lebih optimal                                       |
 |  9   | Pengenalan **React**                              | [`Challenge`](/react/s9/react-with-webpack)         | Menerapkan beberapa komponen pada `React`                                                                                       |
 |  10  | Aplikasi **React** pertama                        | [`Challenge`](/react/s10&s11/)                      | Menyempurnakan tampilan sebelumnya dengan beberapa aksi seperti `increment` dan `decrement`                                     |
 |  11  | Aplikasi **React** pertama                        | [`Assignment#5`](/react/s10&s11/src/components/s11) | Membuat simulasi antrian dengan memperhatikan konsep `atomic design`, `state`, dan `hooks`                                      |
@@ -35,6 +35,14 @@ Berikut detail laporan tiap pertemuan/sesi :
 |  19  | **React Native** Fundamental                      | [`Challenge`](/react-native/s19/FirstApp)           | Menampilkan data API dari `https://randomuser.me/api/?results=50`                                                               |
 |  20  | Styling **React Native** menggunakan `NativeBase` | [`Challenge`](/react-native/s20/ListCutomers)       | Melakukan re-design dengan menggunakan `NativeBase`                                                                             |
 |      | **Simple Wishlist App**                           | [`Challenge`](/react-native/s20/WishlistApp)        | Membuat aplikasi wishlist sederhana dengan menggunakan styling `NativeBase`                                                     |
+
+### 👨‍💻 Techstack
+
+[![](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Next-black?style=flat&logo=next.js)](https://nextjs.org/)
+[![](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
+
+[![](https://img.shields.io/badge/-Vim-%2357A143?style=flat&logo=vim)](https://vim.org/)
 
 ---
 
