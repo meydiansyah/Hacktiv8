@@ -1,4 +1,4 @@
-[![Status](https://img.shields.io/badge/Done-dev-green.svg)](https://shields.io/)
+[![Status](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 # Laporan MBKM Hacktiv8
 
