@@ -22,13 +22,16 @@ const Wishlist = () => {
 						px={10}
 						data={list.data}
 						renderItem={({ item, index }) => {
-							return <ListItem item={item} index={index} />;
+							return (
+								<>
+									<ListItem item={item} index={index} />
+									{list.showInput && <InputWishlist />}
+								</>
+							);
 						}}
 						keyExtractor={(_item, index) => index.toString()}
 					/>
 				)}
-
-				{list.showInput && <InputWishlist />}
 			</Box>
 		</Pressable>
 	);

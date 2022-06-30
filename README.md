@@ -35,6 +35,12 @@ Berikut detail laporan tiap pertemuan/sesi :
 |  19  | **React Native** Fundamental                      | [`Challenge`](/react-native/s19/FirstApp)           | Menampilkan data API dari `https://randomuser.me/api/?results=50`                                                               |
 |  20  | Styling **React Native** menggunakan `NativeBase` | [`Challenge`](/react-native/s20/ListCutomers)       | Melakukan re-design dengan menggunakan `NativeBase`                                                                             |
 |      | **Simple Wishlist App**                           | [`Challenge`](/react-native/s20/WishlistApp)        | Membuat aplikasi wishlist sederhana dengan menggunakan styling `NativeBase`                                                     |
+|  21  | Component **Data Flow** dan **Lifecycle Methods**  | [`challenge`](/react-native/s21)       | Mengenal Alur Data hingga konsep Lifecycle dan Lifecycle Component React Native dan Praktik Handle Data di React Native via Application Programming Interface		|
+|  22  | Management **State** dengan **Hooks** context | [`challenge`](/react-native/s22)       | Memahami Management State dengan Hooks untuk pengembangan mobile apps 		 |
+|  23  | Introduction **React Native Navigation** | [`Assignment#8`](/react-native/s23/ReactNavigation)       | Memahami React Navigasi dan cara handle Interface UI Komponen yang ada di Mobile Apps 		                                                                             |
+|  24  | Testing and Debugging APK **React Native** | Summary       | Mempelajari cara implementasi Jest dan Tips Trick Debugging hingga generate APK React Native 		 		                                                                             |
+|  25  | Publish to Play Store | Summary       | Mempelajari cara konfigurasi dan publish APK ke Google Play Store		  |
+|  26  | **E-commerce Project** | [`Final Assignment`](https://github.com/meydiansyah/binstore)       | Membuat Website Dinamis berbasis React dengan Implementasi API 3rd Parties				  |
 
 ### 👨‍💻 Techstack
 
